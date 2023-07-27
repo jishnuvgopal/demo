@@ -1,0 +1,40 @@
+.navbar{
+    background: transparent;
+    // background: linear-gradient(180deg, #022E6D 7.96%, rgba(2, 46, 109, 0.7) 200.88%, rgba(2, 46, 109, 0.7) 100%);
+    // padding: 90px;
+}
+
+.nav-contain{
+    z-index: 11;
+    top: 1;
+    position: absolute;
+    top: 0;
+    padding-left: 90px !important;
+    padding-right: 90px !important;
+}
+
+.nav-bg {
+    background-color: #fff;
+}
+
+.navbar ul li a {
+    color: #fff;
+    &:hover{
+        color: beige;
+    }
+}
+
+.navbar-logo {
+    color: #fff;
+    &:hover{
+        color: beige;
+    }
+}
+
+.navbar-toggler:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+.navbar-toggler:focus-visible {
+    outline: none !important;
+}

@@ -1,0 +1,69 @@
+.callback-section {
+    padding: 35px;
+}
+
+.callback-button {
+    display: flex;
+    justify-content: center;
+}
+
+.callback-button button {
+    background-color: #022E6D;
+    color: #fff !important;
+    border: none;
+    padding: 15px;
+    border-radius: 12px;
+}
+
+.callback-form {
+    border-radius: 16px;
+}
+
+.callback-head {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-bottom: 15px;
+}
+
+.ceo-details {
+    display: flex;
+    column-gap: 20px;
+}
+
+.callback-ceo {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
+}
+
+.callback-ceo .quote {
+    width: 85%;
+}
+
+.ceo-img {
+    width: 150px;
+    height: 150px;
+}
+
+.ceo-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.ceo-name-contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.callback-form input {
+    background-color: #F3F3F3;
+    border-radius: 12px;
+    padding: 10px;
+    border: none;
+}

@@ -1,0 +1,253 @@
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+  html * {
+      font-family: 'Montserrat', sans-serif;
+      color: #000000;
+  }
+
+  .navbar-logo {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 40px;
+      text-decoration: none;
+  }
+
+  .banner-heading h2 {
+      font-family: 'Montserrat';
+      font-size: 40px;
+      font-weight: 700;
+      line-height: 55px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .cards-head h4 {
+      font-family: 'Montserrat';
+      font-size: 34px;
+      font-weight: 700;
+      line-height: 40px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .card-property .card-body span {
+      font-family: 'Inter';
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      text-align: left;
+      color: #1E88E5;
+  }
+
+  .cards-head p {
+      font-family: 'Inter';
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+
+  }
+
+  .news-card a {
+      text-decoration: none;
+  }
+
+  .cards h4 {
+      font-family: 'Montserrat';
+      font-size: 34px;
+      font-weight: 700;
+      line-height: 40px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .card h6 {
+      font-family: 'Montserrat';
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .feature-head h4 {
+      font-family: 'Montserrat';
+      font-size: 34px;
+      font-weight: 700;
+      line-height: 40px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .feature-head p {
+      font-family: 'Inter';
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+
+  .feature-badges a {
+      font-family: 'Inter';
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      text-align: center;
+  }
+
+  .callback-head h6 {
+      font-family: 'Montserrat';
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: center;
+  }
+
+  .callback-head span {
+      font-family: 'Inter';
+      font-size: 18px;
+      font-weight: 500;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: center;
+  }
+
+  .callback-ceo .quote blockquote {
+      font-family: 'Montserrat';
+      font-size: 28px;
+      font-weight: 300;
+      line-height: 41px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+
+  .ceo-name h6 {
+      font-family: 'Montserrat';
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .ceo-name span {
+      font-family: 'Inter';
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+
+  .ceo-contact {
+      font-family: 'Montserrat';
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 36px;
+      letter-spacing: 0em;
+      text-align: left;
+  }
+
+  .property-category {
+      font-family: 'Inter';
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 18px;
+      letter-spacing: 0em;
+      text-align: center;
+
+  }
+
+  .news-card .property-plan a {
+      font-family: 'Inter';
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 18px;
+      letter-spacing: -0.01em;
+      text-align: center;
+  }
+
+  .select-box select {
+      font-family: 'Inter';
+      font-size: 16px;
+      font-weight: 500;
+      line-height: 24px;
+      letter-spacing: 0em;
+      text-align: left;
+
+  }
+
+  .name-span label {
+      font-family: 'Inter';
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 22px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: gray 800;
+  }
+
+  .footer-logo span {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 34px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .footer-contact span {
+      font-family: 'Montserrat';
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .social-head span {
+      font-family: 'Montserrat';
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: left;
+  }
+
+  .social-icons i {
+      font-size: 22px;
+  }
+
+  .second-head span {
+      font-family: 'Montserrat';
+      font-size: 24px;
+      font-weight: 700;
+      line-height: 28px;
+      letter-spacing: -0.02em;
+      text-align: left;
+      color: #ffff;
+  }
+
+  .second-column ul li {
+      font-family: 'Inter';
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #ffff;
+  }
+
+  .copyright span {
+      font-family: 'Inter';
+      font-size: 16px;
+      font-weight: 300;
+      line-height: 26px;
+      letter-spacing: 0em;
+      text-align: left;
+      color: #ffff;
+  }

@@ -1,0 +1,40 @@
+footer {
+    background-color: #022E6D;
+}
+
+.first-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.social-icons {
+    display: flex;
+    column-gap: 10px;
+}
+
+.second-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.second-column ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.second-column ul li {
+    padding-bottom: 5px;
+}
+
+.footer-row {
+    padding-bottom: 30px;
+    border-bottom: 1px solid #fff;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+}

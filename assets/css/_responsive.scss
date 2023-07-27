@@ -1,0 +1,147 @@
+@media only screen and (max-width: 425px) {
+
+    //footer
+    .first-column {
+        padding-bottom: 10px;
+    }
+
+    .first-column div {
+        padding-bottom: 20px;
+        padding-left: 5px;
+    }
+
+    .second-column {
+        padding-bottom: 20px;
+    }
+
+    .copyright span {
+        font-family: 'Inter';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 26px;
+        letter-spacing: 0em;
+        text-align: left;
+
+    }
+
+    //callback
+
+    .ceo-details {
+        flex-direction: column;
+    }
+
+    .ceo-img {
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .callback-ceo .quote {
+        padding: 10px;
+    }
+
+    .banner-heading {
+        width: 100%;
+    }
+
+    .banner-heading h2 {
+        font-family: 'Montserrat';
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 30px;
+        letter-spacing: -0.02em;
+        text-align: left;
+    }
+
+    .navbar {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+
+
+
+    .custom-toggler-icon i {
+        font-size: 28px;
+    }
+
+    //search console
+    .search-console-span-contain {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .search-console-span-contain span a {
+        border-bottom: none;
+    }
+
+    .search-console-span-contain .active {
+        border-bottom: none !important;
+    }
+
+    .search-box {
+        padding-top: 30px;
+    }
+
+    .search-button {
+        padding-top: 30px;
+    }
+
+    .name-span {
+        padding-top: 40px;
+    }
+
+    .main-property-search {
+        padding: 20px;
+    }
+
+    // callback
+
+    .callback-ceo .quote {
+        width: 100%;
+    }
+
+    .callback-ceo .quote blockquote {
+        text-align: center;
+    }
+
+    .ceo-name-contact {
+        padding-top: 10px;
+    }
+
+    .ceo-contact {
+        padding-top: 10px;
+    }
+
+    .callback-social {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #ffff;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .nav-list {
+        background-color: white;
+        padding: 20px;
+    }
+
+    .nav-list ul li a {
+        color: #022E6D !important;
+        font-family: 'Inter';
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 22px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+
+    .nav-contain{
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .ceo-details {
+        flex-direction: column;
+    }
+}
